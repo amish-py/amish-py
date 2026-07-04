@@ -2,9 +2,9 @@
 
 ![banner](./banner.png)
 
-![Stars](https://img.shields.io/badge/11%20Stars-000000?style=flat-square)
+![Stars](https://img.shields.io/badge/12%20Stars-000000?style=flat-square)
 ![Forks](https://img.shields.io/badge/0%20Forks-000000?style=flat-square)
-![Followers](https://img.shields.io/badge/3%20Followers-000000?style=flat-square)
+![Followers](https://img.shields.io/badge/7%20Followers-000000?style=flat-square)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Hey there! I'm Amish
 
-I'm a Backend & Cloud Engineer running on momo and an unhealthy obsession with monochrome dark themes. By day, I build scalable backend systems and wrangle cloud infrastructure. By night, I write Discord bots that manage servers better than I manage my own sleep schedule. When I'm not coding, I'm probably staring at a Terraform plan output wondering what I just destroyed.
+Backend & Cloud Engineer who likes dark themes and clean systems. I build backend services, automate infrastructure, and write Discord bots on the side.
 
 </td>
 </tr>
@@ -31,26 +31,20 @@ I'm a Backend & Cloud Engineer running on momo and an unhealthy obsession with m
 
 ---
 
-## Top Projects (built to avoid manual labor)
+## Top Projects
 
 <table>
 <tr>
 <td valign="top">
 
-**[Discolite](https://github.com/amish-py/discolite.git)**
-Discord folder maker — scaffolds bot projects so I don't start from a blank file every time.
+[![Discolite](https://img.shields.io/badge/-Discolite-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/amish-py/discolite.git)
+Discord folder maker.
 
-[![Discolite](https://img.shields.io/badge/View%20Repo-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/amish-py/discolite.git)
+[![Stex](https://img.shields.io/badge/-Stex-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/amish-py/Stex.git)
+Components V2 moderation bot.
 
-**[Stex](https://github.com/amish-py/Stex.git)**
-Components V2 moderation bot — keeps servers in line better than I keep my own schedule.
-
-[![Stex](https://img.shields.io/badge/View%20Repo-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/amish-py/Stex.git)
-
-**[Urlso](https://github.com/amish-py/Urlso.git)**
-URL shortener — because typing full links is apparently too much work.
-
-[![Urlso](https://img.shields.io/badge/View%20Repo-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/amish-py/Urlso.git)
+[![Urlso](https://img.shields.io/badge/-Urlso-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/amish-py/Urlso.git)
+URL shortener.
 
 </td>
 <td width="160" valign="top" align="center">
@@ -76,9 +70,6 @@ URL shortener — because typing full links is apparently too much work.
 <br><br>
 
 > Code is never finished. It only becomes slightly less terrible over time.
->
-> Every commit I make is essentially just a small, desperate apology to my future self.
-> Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
 
 </div>
 
@@ -90,7 +81,6 @@ URL shortener — because typing full links is apparently too much work.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amish-py&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amish-py&hide_border=true&theme=dark&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 
 </div>
